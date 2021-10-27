@@ -105,19 +105,7 @@
           "DesCurso": "ECUACIONES DIFERENCIALES Y ÁLGEBRA LINEAL",
           "strHoraInicio": null,
           "strHoraFin": null
-        }
-      ]
-    },
-    {
-      "DTOHorarioAlumnoCab": {
-        "CodLineaNegocio": "U",
-        "CodModalEst": "FC",
-        "NombreDia": "MARTES",
-        "CodPeriodo": "202102",
-        "FechaSesion": "2021-09-21T00:00:00",
-        "Dia": 0
-      },
-      "ListaDTOHorarioAlumnoDet": [
+        },
         {
           "IdSesion": 31224962,
           "HoraInicioSesion": "2021-09-21T19:00:00",
@@ -209,19 +197,7 @@
           "DesCurso": "ECUACIONES DIFERENCIALES Y ÁLGEBRA LINEAL II",
           "strHoraInicio": null,
           "strHoraFin": null
-        }
-      ]
-    },
-    {
-      "DTOHorarioAlumnoCab": {
-        "CodLineaNegocio": "U",
-        "CodModalEst": "FC",
-        "NombreDia": "MARTES",
-        "CodPeriodo": "202102",
-        "FechaSesion": "2021-09-21T00:00:00",
-        "Dia": 0
-      },
-      "ListaDTOHorarioAlumnoDet": [
+        },
         {
           "IdSesion": 31224962,
           "HoraInicioSesion": "2021-09-21T19:00:00",
@@ -313,19 +289,7 @@
           "DesCurso": "ECUACIONES DIFERENCIALES Y ÁLGEBRA LINEAL III",
           "strHoraInicio": null,
           "strHoraFin": null
-        }
-      ]
-    },
-    {
-      "DTOHorarioAlumnoCab": {
-        "CodLineaNegocio": "U",
-        "CodModalEst": "FC",
-        "NombreDia": "MARTES",
-        "CodPeriodo": "202102",
-        "FechaSesion": "2021-09-21T00:00:00",
-        "Dia": 0
-      },
-      "ListaDTOHorarioAlumnoDet": [
+        },
         {
           "IdSesion": 31224962,
           "HoraInicioSesion": "2021-09-21T19:00:00",
@@ -521,19 +485,7 @@
           "DesCurso": "ESTADÍSTICA APLICADA 1",
           "strHoraInicio": null,
           "strHoraFin": null
-        }
-      ]
-    },
-    {
-      "DTOHorarioAlumnoCab": {
-        "CodLineaNegocio": "U",
-        "CodModalEst": "FC",
-        "NombreDia": "MIÉRCOLES",
-        "CodPeriodo": "202102",
-        "FechaSesion": "2021-09-22T00:00:00",
-        "Dia": 0
-      },
-      "ListaDTOHorarioAlumnoDet": [
+        },
         {
           "IdSesion": 31235833,
           "HoraInicioSesion": "2021-09-22T19:00:00",
