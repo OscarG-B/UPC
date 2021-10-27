@@ -1,0 +1,19 @@
+{
+  "name": "upc-api-fake",
+  "version": "1.0.0",
+  "description": "fake api services of UPC web services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://IntergrupoUPCA@dev.azure.com/IntergrupoUPCA/Portal%20del%20Estudiante/_git/upc-api-fake"
+  },
+  "author": "Software One",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.17.0"
+  }
+}
