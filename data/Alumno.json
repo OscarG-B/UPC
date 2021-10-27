@@ -1,0 +1,50 @@
+{
+  "DTOHeader": {
+    "CodigoRetorno": "Correcto",
+    "DescRetorno": ""
+  },
+  "ListaDTOAlumnos": [
+    {
+      "CodLineaNegocio": "U",
+      "CodAlumno": "201121382",
+      "CodPersona": 120149,
+      "CodUsuario": "U201121382",
+      "EstadoIngreso": null,
+      "FechaCreacion": "2011-08-12T14:25:34",
+      "UsuarioCreacion": "JOMERCAD",
+      "FechaModificacion": "2016-08-12T02:52:12",
+      "UsuarioModificacion": "PROCEDIM",
+      "IndEnvioCarta": "NO",
+      "IndDireccionErrada": "NO",
+      "CodDestinatario": null,
+      "PIN": 1616,
+      "FlagCorreo": "1",
+      "CodSede": "A",
+      "ApePatImag": "Vilca",
+      "ApeMatImag": "Aguilar",
+      "NombresImag": "Julio Cesar",
+      "ApellidoPatern": "VILCA",
+      "ApellidoMatern": "AGUILAR",
+      "Nombres": "JULIO CESAR",
+      "TipoDocumento": "DNI",
+      "DocumenIdentida": "09827309",
+      "Sexo": "M",
+      "LineaNegocioNombre": "UPC",
+      "CodModalidadEstActual": "FC",
+      "CodPeriodoActual": "201502",
+      "CodProductoActual": "03310021  ",
+      "UsuarioEmail": "BuzonSTI@upc.edu.pe",
+      "FechaNacimiento": "1973-09-16T00:00:00",
+      "FotoUrl": "http://intranetdesoe.upc.edu.pe/programas/Imagen/Fotos/Upc/0540201121382.jpg",
+      "UltIdMatricula": 1047851,
+      "CodSedeMatricula": "A",
+      "Ciclo": "12",
+      "DesProducto": "Ingeniería de Sistemas",
+      "TelefonoMovil": "977520860",
+      "DeudaSINO": null,
+      "GUID_CRM": null,
+      "COD_ESTADO_MAT": null
+    }
+  ],
+  "DTOAlumnos": null
+}

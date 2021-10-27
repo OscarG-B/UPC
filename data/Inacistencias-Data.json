@@ -1,0 +1,45 @@
+{
+    "DTOHeader": {
+        "CodigoRetorno": "Correcto",
+        "DescRetorno": ""
+    },
+    "ListaDTOInasistenciasAlumnos": [
+        {
+            "DTOInasistenciasCab": {
+                "CodLineaNegocio": "U",
+                "CodModalEst": "AC",
+                "CodPeriodo": "201502",
+                "MatriculaId": 1002196,
+                "CodAlumno": "201520067",
+                "ApellidoPaterno": "RENOJO",
+                "ApellidoMaterno": "CHAVEZ",
+                "Nombres": "FIORELLA MAYORIE",
+                "CodProducto": "03310003",
+                "DesProducto": "INGENIERÍA CIVIL",
+                "Seccion": "CX11",
+                "Grupo": "00",
+                "CodCurso": "MA420",
+                "DesCurso": "MATEMÁTICA BÁSICA",
+                "ClasesDictadas": 29,
+                "ClasesAsistidas": 27,
+                "ClasesTardanzas": 0,
+                "ClasesInasistidas": 2,
+                "ClasesEfectivasIna": 2,
+                "ClasesProgramadas": 27
+            },
+            "ListaDTOInasistenciasDet": [
+                {
+                    "IdSesion": 15610534,
+                    "FechaSesion": "2015-11-20T00:00:00",
+                    "EstadoInasiste": "I"
+                },
+                {
+                    "IdSesion": 14500680,
+                    "FechaSesion": "2015-10-02T00:00:00",
+                    "EstadoInasiste": "I"
+                }
+            ]
+        }
+    ],
+    "ListaDTOInasistenciaSesionAlumno": null
+}

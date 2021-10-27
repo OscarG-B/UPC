@@ -1,0 +1,28 @@
+{
+  "result": [
+    {
+      "IncidentId": "3cbb6e1e-0b16-ea11-8105-00505693077d",
+      "NumeroTicket": "CAS-01596-P9W3P3",
+      "UnidadNegocio": "EPG",
+      "CodigoMedioOrigen": "3",
+      "MedioOrigen": "Contacto Web",
+      "Proceso": null,
+      "Servicio": null,
+      "DetalleServicio": null,
+      "Sede": null,
+      "Consulta": "prueba atencion EPG",
+      "Observacion": null,
+      "Clasificacion": null,
+      "Tipologia": null,
+      "Respuesta": null,
+      "Firma": null,
+      "Responsable": "CW",
+      "EquipoAsignado": "CW",
+      "Dispositivo": null,
+      "Estado": "Activo",
+      "FlagSatisfaccion": false,
+      "FechaAtencion": null,
+      "FechaCreacion": "03/12/2019 08:26:00 p.m."
+    }
+  ]
+}				

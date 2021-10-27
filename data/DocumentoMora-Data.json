@@ -1,0 +1,19 @@
+{
+  "DatosDocumento": [
+    {
+      "Descuento": 0.0000,
+      "DeudaTotal": 0.0000,
+      "Documento": "U201212608          ",
+      "FechaVencimiento": "01/06/2015 12:00:00 a.m.",
+      "GastoAdministrativo": 0.0000,
+      "MonedaDocumento": "  ",
+      "Mora": 0.0000,
+      "NombreCompleto": "SCHOFIELD DIBOS VALERIE MARIA                                    ",
+      "NumeroDocumento": "200-0723639   ",
+      "Saldo": 0.0000,
+      "TipoDocumento": "BV"
+    }
+  ],
+  "Detalle": "Consulta Exitosa",
+  "Resutado": 0
+}				

@@ -1,0 +1,10 @@
+{
+  "DTOHeader": {
+    "CodigoRetorno": "Correcto",
+    "DescRetorno": ""
+  },
+  "DTOTotalMatriculadosVigentes": 0,
+  "DTOTotalMatriculadosRetirados": 0,
+  "DTOTotalMatriculadosSancionados": 0,
+  "ListaDTODetMatriculaOBJ": []
+}			

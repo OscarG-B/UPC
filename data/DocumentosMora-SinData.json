@@ -1,0 +1,19 @@
+{
+  "DatosDocumento": [
+    {
+      "Descuento": 0,
+      "DeudaTotal": 0,
+      "Documento": null,
+      "FechaVencimiento": null,
+      "GastoAdministrativo": 0,
+      "MonedaDocumento": null,
+      "Mora": 0,
+      "NombreCompleto": null,
+      "NumeroDocumento": null,
+      "Saldo": 0,
+      "TipoDocumento": null
+    }
+  ],
+  "Detalle": "No se encontro el documento.",
+  "Resutado": -5
+}			

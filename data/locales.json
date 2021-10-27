@@ -1,0 +1,33 @@
+﻿{
+  "DTOHeader": {
+    "CodigoRetorno": "Correcto",
+    "DescRetorno": ""
+  },
+  "DTOLocal": null,
+  "ListaDTOLocal": [
+    {
+      "LocalCodLocal": "A",
+      "LocalDescripcion": "CAMPUS MONTERRICO",
+      "LocalDireccion": "AV. PRIMAVERA",
+      "LocalUsuarioCreador": "MIGRACION",
+      "LocalFechaCreacion": "2000-12-18T00:00:00",
+      "LocalUsuarioModifca": "JCHUMBIA",
+      "LocalFechaModifca": "2018-10-04T00:00:00",
+      "LocalInicial": "MO",
+      "LocalColor": "80002A",
+      "LocalIndPronabec": "SI"
+    },
+    {
+      "LocalCodLocal": "B",
+      "LocalDescripcion": "CAMPUS SAN ISIDRO",
+      "LocalDireccion": "AV. PRIMAVERA",
+      "LocalUsuarioCreador": "MIGRACION",
+      "LocalFechaCreacion": "2000-12-18T00:00:00",
+      "LocalUsuarioModifca": "JCHUMBIA",
+      "LocalFechaModifca": "2018-10-04T00:00:00",
+      "LocalInicial": "SI",
+      "LocalColor": "80002A",
+      "LocalIndPronabec": "SI"
+    }
+  ]
+}

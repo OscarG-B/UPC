@@ -1,0 +1,107 @@
+{
+  "DTOHeader": {
+    "CodigoRetorno": "Correcto",
+    "DescRetorno": ""
+  },
+  "ListaCursoSeccionDocente": [
+    {
+      "CodLineaNegocio": "U",
+      "DescLineaNegocio": "UPC",
+      "CodModalEst": "AC",
+      "DescModalEst": "PREGRADO-UPC",
+      "CodPeriodo": "201601",
+      "ListaDTOCursoSeccionDocente": [
+        {
+          "CodCurso": "MA468",
+          "DescCurso": "FÍSICA III",
+          "Seccion": "EL52",
+          "Grupo": "00",
+          "CodDocente": 1728,
+          "CodUsuarioDocente": "PCMAJACO",
+          "ApellidoPaternoDocente": "Acosta",
+          "ApellidoMaternoDocente": "Jara",
+          "NombresDocentes": "José Nemecio",
+          "RutaFotoDocente": "https://archivos.upc.edu.pe/imagenes/docentes/",
+          "EmailDocente": "pcmajaco@upc.edu.pe",
+          "CodCategoriaDocente": "PR",
+          "DescCategoriaDocente": "PROFESOR PRINCIPAL",
+          "CodTarifa": null,
+          "CodSubcategoriaDocente": "PR",
+          "DescSubCaegoriaDocente": "PRINCIPAL"
+        },
+        {
+          "CodCurso": "MA468",
+          "DescCurso": "FÍSICA III",
+          "Seccion": "EL52",
+          "Grupo": "00",
+          "CodDocente": 2108,
+          "CodUsuarioDocente": "PCMAGANC",
+          "ApellidoPaternoDocente": "Anchiraico",
+          "ApellidoMaternoDocente": "Baltazar",
+          "NombresDocentes": "Gustavo Abel",
+          "RutaFotoDocente": "https://archivos.upc.edu.pe/imagenes/docentes/66950620060222165805.bmp",
+          "EmailDocente": "pcmaganc@upc.edu.pe",
+          "CodCategoriaDocente": "PR",
+          "DescCategoriaDocente": "PROFESOR PRINCIPAL",
+          "CodTarifa": null,
+          "CodSubcategoriaDocente": "PR",
+          "DescSubCaegoriaDocente": "PRINCIPAL"
+        },
+        {
+          "CodCurso": "MA468",
+          "DescCurso": "FÍSICA III",
+          "Seccion": "EL52",
+          "Grupo": "00",
+          "CodDocente": 4910,
+          "CodUsuarioDocente": "PCHUNVEG",
+          "ApellidoPaternoDocente": "Vega",
+          "ApellidoMaternoDocente": "Mendieta",
+          "NombresDocentes": "Nehemias",
+          "RutaFotoDocente": "https://archivos.upc.edu.pe/imagenes/docentes/1487420120214153936.jpg",
+          "EmailDocente": "pchunveg@upc.edu.pe",
+          "CodCategoriaDocente": "SU",
+          "DescCategoriaDocente": "SUPERVISOR",
+          "CodTarifa": null,
+          "CodSubcategoriaDocente": null,
+          "DescSubCaegoriaDocente": null
+        },
+        {
+          "CodCurso": "MA468",
+          "DescCurso": "FÍSICA III",
+          "Seccion": "EL52",
+          "Grupo": "00",
+          "CodDocente": 5801,
+          "CodUsuarioDocente": "PCMAEROM",
+          "ApellidoPaternoDocente": "Romero",
+          "ApellidoMaternoDocente": "Rivera",
+          "NombresDocentes": "Edward Joel",
+          "RutaFotoDocente": "https://archivos.upc.edu.pe/imagenes/docentes/16437920130206195329.jpg",
+          "EmailDocente": "pcmaerom@upc.edu.pe",
+          "CodCategoriaDocente": "PR",
+          "DescCategoriaDocente": "PROFESOR PRINCIPAL",
+          "CodTarifa": null,
+          "CodSubcategoriaDocente": "PR",
+          "DescSubCaegoriaDocente": "PRINCIPAL"
+        },
+        {
+          "CodCurso": "MA468",
+          "DescCurso": "FÍSICA III",
+          "Seccion": "EL52",
+          "Grupo": "00",
+          "CodDocente": 8634,
+          "CodUsuarioDocente": "PCMEANPE",
+          "ApellidoPaternoDocente": "Perez",
+          "ApellidoMaternoDocente": "Narrea",
+          "NombresDocentes": "Jose Andres",
+          "RutaFotoDocente": "https://archivos.upc.edu.pe/imagenes/docentes/88259520160127093900.jpg",
+          "EmailDocente": "PCMEANPE@UPC.EDU.PE",
+          "CodCategoriaDocente": "SU",
+          "DescCategoriaDocente": "SUPERVISOR",
+          "CodTarifa": null,
+          "CodSubcategoriaDocente": null,
+          "DescSubCaegoriaDocente": null
+        }
+      ]
+    }
+  ]
+}				

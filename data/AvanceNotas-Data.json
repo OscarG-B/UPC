@@ -1,0 +1,62 @@
+{
+  "DTOHeader": {
+    "CodigoRetorno": "Correcto",
+    "DescRetorno": ""
+  },
+  "AvanceNota": {
+    "CodLineaNegocio": "U",
+    "CodModalEst": "FC",
+    "CodPeriodo": "202102",
+    "CodAlumno": "202019587",
+    "CodUsuario": "U202019587",
+    "ApellidoPatern": "VALLES",
+    "ApellidoMatern": "MANANITA",
+    "Nombres": "SINDRY VALERIA",
+    "ApePatImag": "Valles",
+    "ApeMatImag": "Mananita",
+    "NombresImag": "Sindry Valeria"
+  },
+  "ListaNota": [
+    {
+      "CodCurso": "CE89",
+      "DescCurso": "ECUACIONES DIFERENCIALES Y ÁLGEBRA LINEAL",
+      "DescEspecial": "Ecuaciones Diferenciales y Álgebra Lineal",
+      "DescAbreCurso": "ECUA DIFEREN Y ALG LINEAL",
+      "CodFormula": 66590,
+      "DscFormula": "20% (PC1) + 25% (PC2) + 25% (DD1) + 30% (EB1)",
+      "PorcentajeAvance": null,
+      "Promedio": 0.0,
+      "TipoNota": null,
+      "Notas": [
+        {
+          "CodTipoPrueba": "DD",
+          "DesTipoPrueba": "EVAL. DE DESEMPENO",
+          "NumPrueba": 1,
+          "PesoPonderado": "25%",
+          "Nota": ""
+        },
+        {
+          "CodTipoPrueba": "EB",
+          "DesTipoPrueba": "EVALUACIÓN FINAL",
+          "NumPrueba": 1,
+          "PesoPonderado": "30%",
+          "Nota": ""
+        },
+        {
+          "CodTipoPrueba": "PC",
+          "DesTipoPrueba": "PRÁCTICAS PC",
+          "NumPrueba": 1,
+          "PesoPonderado": "20%",
+          "Nota": "19.50"
+        },
+        {
+          "CodTipoPrueba": "PC",
+          "DesTipoPrueba": "PRÁCTICAS PC",
+          "NumPrueba": 2,
+          "PesoPonderado": "25%",
+          "Nota": ""
+        }
+      ]
+    }
+  ]
+}						

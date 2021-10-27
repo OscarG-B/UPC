@@ -1,0 +1,39 @@
+{
+  "DTOHeader": {
+    "CodigoRetorno": "Correcto",
+    "DescRetorno": ""
+  },
+  "ListaTramiteAlumno": [
+    {
+      "CodLineaNegocio": "U",
+      "CodModalEst": "AC",
+      "CodPeriodo": "202002",
+      "CodAlumno": "201623595",
+      "CodTramite": 14,
+      "DescripcionTramite": "SOLICITUD DE REANUDACIÓN DE ESTUDIOS",
+      "CodPersona": 9552570,
+      "ApellidoPaternoImag": "Cervera",
+      "ApellidoMaternoImag": "Blanco",
+      "NombresImag": "Arianne Geraldine",
+      "ApellidoPaterno": "CERVERA",
+      "ApellidoMaterno": "BLANCO",
+      "Nombres": "ARIANNE GERALDINE",
+      "TipoDocumento": "DNI",
+      "DocumentoIdentidad": "71860667",
+      "Detalle": [
+        {
+          "CodSolicitud": 29899330,
+          "FechaSolicitud": "2020-07-09T16:39:11",
+          "FechaRespuesta": "2020-07-09T16:39:11",
+          "MotivoSolicitud": "Hola, deseo realizar mi reanudación de estudios para el ciclo que viene por favor.",
+          "ObservacionSolicitud": "Estimado alumno (a):\r\nTu solicitud ha procedido para el periodo 2020-2. Podrís ingresar a la matrícula en línea preferencial el día 8 de agosto a partir de las 9 am. hasta las 6 pm. La matrícula en línea regular que será del 10 al 13 de agosto a partir de las 8am hasta las 11:59pm. Luego, podrís ingresar a la matrícula complementaria en línea que será el 14 y 15 de agosto de 6pm a 9pm sujeto a vacantes ingresando a: http://matricula.upc.edu.pe/. \r\nRecuerda que la emisión de la 1era boleta será el 11 de julio con fecha de vencimiento 3 de agosto del 2020. Para que puedas realizar tu matrícula no deberás tener deudas. \r\nAtentamente,\r\nGestión de Servicios al Alumno UPC\r\n",
+          "EstadoSolicitud": "PR",
+          "UsuarioCreador": "U201623595",
+          "FechaCreacion": "2020-07-09T16:39:11",
+          "UsuarioModificador": "LTAVARA",
+          "FechaModificacion": "2020-07-09T18:28:35"
+        }
+      ]
+    }
+  ]
+}					
