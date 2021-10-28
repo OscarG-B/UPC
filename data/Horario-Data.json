@@ -669,8 +669,8 @@
           "DocumenIdentida": "25484101",
           "DescripcionTpCategDoce": "PROFESOR PRINCIPAL",
           "DescripcionTpSubcatDoce": null,
-          "DescMinisterioCurso": "ECUACIONES DIFERENCIALES Y ÁLGEBRA LINEAL",
-          "DescEspecialCurso": "Ecuaciones Diferenciales y álgebra Lineal",
+          "DescMinisterioCurso": "FISICA MECANICA",
+          "DescEspecialCurso": "Física mecanica",
           "CodDireccionCurso": "CE",
           "CodSedeAlumno": "A",
           "CodDocenteDocSec": 843,
@@ -678,7 +678,7 @@
           "CodTarifaDocSec": null,
           "CodSubCatDocSec": null,
           "IndOnlineCurso": "SI",
-          "DesCurso": "ECUACIONES DIFERENCIALES Y ÁLGEBRA LINEAL",
+          "DesCurso": "FÍSICA MECANICA",
           "strHoraInicio": null,
           "strHoraFin": null
         }
