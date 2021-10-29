@@ -28,6 +28,8 @@ const tramites = require('./data/Tramites-Data.json');
 const inacistencia = require('./data/Inacistencias-Data.json');
 const inacistenciaVacio = require('./data/Inacistencia-SinData.json');
 
+const detMatriculasIncorrecto = require('./data/DevMatriculas-Data-Incorrecto.json');
+
 
 module.exports = function() {
 return {
@@ -56,6 +58,7 @@ return {
   tramite :tramite,
   tramites:tramites,
   inacistencia: inacistencia,
-  inacistenciaVacio:inacistenciaVacio
+  inacistenciaVacio:inacistenciaVacio,
+  detMatriculasIncorrecto:detMatriculasIncorrecto
  }
 }
