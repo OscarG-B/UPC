@@ -1,7 +1,7 @@
 {
   "DTOHeader": {
-    "CodigoRetorno": "Correcto",
-    "DescRetorno": ""
+    "CodigoRetorno": "Incorrecto",
+    "DescRetorno": "Error 500"
   },
   "DTOTotalMatriculadosVigentes": 0,
   "DTOTotalMatriculadosRetirados": 0,
