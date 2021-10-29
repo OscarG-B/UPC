@@ -1,6 +1,6 @@
 {
   "DTOHeader": {
-    "CodigoRetorno": "Correcto",
+    "CodigoRetorno": "Incorrecto",
     "DescRetorno": ""
   },
   "ListaDTOHorarioOBJAlumno": []
