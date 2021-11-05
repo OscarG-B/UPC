@@ -31,7 +31,7 @@ const inacistenciaVacio = require("./data/Inacistencia-SinData.json");
 const detMatriculasIncorrecto = require("./data/DevMatriculas-Data-Incorrecto.json");
 
 const autenticarRecurso = require("./data/Autenticar-Recursos.json");
-// const autenticarRecursoVacio = require("./data/Autenticar-RecursosSinData.json");
+const autenticarRecursoVacio = require("./data/Autenticar-RecursosSinData.json");
 // const autenticarRecursoError = require("./data/Autenticar-RecursosError.json");
 
 // const recursosDisponiblesCampus = require('./data/Recursos-Disponibles-Campus.json');
@@ -84,7 +84,7 @@ module.exports = function () {
     inacistenciaVacio: inacistenciaVacio,
     detMatriculasIncorrecto: detMatriculasIncorrecto,
     autenticarRecurso: autenticarRecurso,
-    // autenticarRecursoVacio: autenticarRecursoVacio,
+    autenticarRecursoVacio: autenticarRecursoVacio,
     // autenticarRecursoError: autenticarRecursoError,
     // recursosDisponiblesCampus:recursosDisponiblesCampus,
     // recursosDisponiblesComputadoras:recursosDisponiblesComputadoras,
