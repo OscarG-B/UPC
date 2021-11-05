@@ -1,10 +1,10 @@
 ﻿const locales = require("./data/locales.json");
 const localesVacio = require("./data/locales-vacio.json");
 const alumno = require("./data/Alumno.json");
-// const alumnoVacio = require("./data/Alumno-SinData.json");
-// const alumnoError = require("./data/Alumno-Incorrecto.json");
+const alumnoVacio = require("./data/Alumno-SinData.json");
+const alumnoError = require("./data/Alumno-Incorrecto.json");
 const avanceNotas = require("./data/AvanceNotas-Data.json");
-// const avanceVacio = require("./data/AvanceNotas-inData.json");
+const avanceVacio = require("./data/AvanceNotas-inData.json");
 const cliente = require("./data/Cliente-Data.json");
 const clienteVacio = require("./data/Cliente-SinData.json");
 const cursoSeccionDocente = require("./data/CurSecDoc-Data.json");
@@ -31,8 +31,8 @@ const inacistenciaVacio = require("./data/Inacistencia-SinData.json");
 const detMatriculasIncorrecto = require("./data/DevMatriculas-Data-Incorrecto.json");
 
 const autenticarRecurso = require("./data/Autenticar-Recursos.json");
-const autenticarRecursoVacio = require("./data/Autenticar-RecursosSinData.json");
-const autenticarRecursoError = require("./data/Autenticar-RecursosError.json");
+// const autenticarRecursoVacio = require("./data/Autenticar-RecursosSinData.json");
+// const autenticarRecursoError = require("./data/Autenticar-RecursosError.json");
 
 // const recursosDisponiblesCampus = require('./data/Recursos-Disponibles-Campus.json');
 // const recursosDisponiblesComputadoras = require('./data/Recursos-Disponibles-Computadoras.json');
@@ -59,10 +59,10 @@ module.exports = function () {
     locales: locales,
     localesVacio: localesVacio,
     alumno: alumno,
-    // alumnoVacio: alumnoVacio,
-    // alumnoError: alumnoError,
+    alumnoVacio: alumnoVacio,
+    alumnoError: alumnoError,
     avanceNotas: avanceNotas,
-    // avanceVacio: avanceVacio,
+    avanceVacio: avanceVacio,
     cliente: cliente,
     clienteVacio: clienteVacio,
     cursoSeccionDocente: cursoSeccionDocente,
@@ -84,8 +84,8 @@ module.exports = function () {
     inacistenciaVacio: inacistenciaVacio,
     detMatriculasIncorrecto: detMatriculasIncorrecto,
     autenticarRecurso: autenticarRecurso,
-    autenticarRecursoVacio: autenticarRecursoVacio,
-    autenticarRecursoError: autenticarRecursoError,
+    // autenticarRecursoVacio: autenticarRecursoVacio,
+    // autenticarRecursoError: autenticarRecursoError,
     // recursosDisponiblesCampus:recursosDisponiblesCampus,
     // recursosDisponiblesComputadoras:recursosDisponiblesComputadoras,
     // recursosDisponiblesError:recursosDisponiblesError,
