@@ -724,34 +724,3 @@
 }
 
 
-{
-  "CodError": "00000",
-  "Mensaje": "",
-  "TipoRecurso": "CO",
-  "FecReserva": "28032014",
-  "CanHoras": "1",
-  "Recursos": [
-    {
-      "CodRecurso": 34,
-      "NomRecurso": "COMPUTADORA 04 (SALA 1)",
-      "Local": "CAMPUS MONTERRICO",
-      "FecReserva": "28032014",
-      "HoraIni": "0000",
-      "HoraFin": "0000",
-      "Estado": false,
-      "CodError": null,
-      "Mensaje": null
-    },
-    {
-      "CodRecurso": 35,
-      "NomRecurso": "COMPUTADORA 05 (SALA 1)",
-      "Local": "CAMPUS MONTERRICO",
-      "FecReserva": "28032014",
-      "HoraIni": "0000",
-      "HoraFin": "0000",
-      "Estado": false,
-      "CodError": null,
-      "Mensaje": null
-    }    
-  ]
-}
