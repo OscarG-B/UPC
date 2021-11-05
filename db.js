@@ -32,7 +32,7 @@ const detMatriculasIncorrecto = require("./data/DevMatriculas-Data-Incorrecto.js
 
 const autenticarRecurso = require("./data/Autenticar-Recursos.json");
 const autenticarRecursoVacio = require("./data/Autenticar-RecursosSinData.json");
-// const autenticarRecursoError = require("./data/Autenticar-RecursosError.json");
+const autenticarRecursoError = require("./data/Autenticar-RecursosError.json");
 
 // const recursosDisponiblesCampus = require('./data/Recursos-Disponibles-Campus.json');
 // const recursosDisponiblesComputadoras = require('./data/Recursos-Disponibles-Computadoras.json');
@@ -85,7 +85,7 @@ module.exports = function () {
     detMatriculasIncorrecto: detMatriculasIncorrecto,
     autenticarRecurso: autenticarRecurso,
     autenticarRecursoVacio: autenticarRecursoVacio,
-    // autenticarRecursoError: autenticarRecursoError,
+    autenticarRecursoError: autenticarRecursoError,
     // recursosDisponiblesCampus:recursosDisponiblesCampus,
     // recursosDisponiblesComputadoras:recursosDisponiblesComputadoras,
     // recursosDisponiblesError:recursosDisponiblesError,
