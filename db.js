@@ -30,9 +30,9 @@ const inacistenciaVacio = require('./data/Inacistencia-SinData.json');
 
 const detMatriculasIncorrecto = require('./data/DevMatriculas-Data-Incorrecto.json');
 
-// const autenticarRecurso = require('./data/Autenticar-Recursos.json');
-// const autenticarRecursoVacio = require('./data/Autenticar-Recursos-SinData.json');
-// const autenticarRecursoError = require('./data/Autenticar-Recursos-Error.json');
+const autenticarRecurso = require('./data/Autenticar-Recursos.json');
+const autenticarRecursoVacio = require('./data/Autenticar-Recursos-SinData.json');
+const autenticarRecursoError = require('./data/Autenticar-Recursos-Error.json');
 
 // const recursosDisponiblesCampus = require('./data/Recursos-Disponibles-Campus.json');
 // const recursosDisponiblesComputadoras = require('./data/Recursos-Disponibles-Computadoras.json');
@@ -87,9 +87,9 @@ return {
   inacistencia: inacistencia,
   inacistenciaVacio:inacistenciaVacio,
   detMatriculasIncorrecto:detMatriculasIncorrecto,
-  // autenticarRecurso:autenticarRecurso,
-  // autenticarRecursoVacio:autenticarRecursoVacio,
-  // autenticarRecursoError:autenticarRecursoError,
+  autenticarRecurso:autenticarRecurso,
+  autenticarRecursoVacio:autenticarRecursoVacio,
+  autenticarRecursoError:autenticarRecursoError,
   // recursosDisponiblesCampus:recursosDisponiblesCampus,
   // recursosDisponiblesComputadoras:recursosDisponiblesComputadoras,
   // recursosDisponiblesError:recursosDisponiblesError,
