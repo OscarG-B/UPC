@@ -40,19 +40,19 @@ const recursosDisponiblesError = require("./data/Recursos-Disponibles-Error.json
 const recursosDisponiblesVacio = require("./data/Recursos-Disponibles-SinData.json");
 const recursosDisponiblesToken = require("./data/Recursos-Disponibles-TokenVencido.json");
 
-// const reservaRecurso002 = require('./data/Reservar-Recurso-0002.json');
-// const reservaRecursoComputadora = require('./data/Reservar-Recurso-computador.json');
-// const reservaRecursoCubiculo = require('./data/Reservar-Recurso-cubiculo.json');
-// const reservaRecursoError = require('./data/Reservar-Recurso-Error.json');
+const reservaRecurso002 = require('./data/Reservar-Recurso-0002.json');
+const reservaRecursoComputadora = require('./data/Reservar-Recurso-computador.json');
+const reservaRecursoCubiculo = require('./data/Reservar-Recurso-cubiculo.json');
+const reservaRecursoError = require('./data/Reservar-Recurso-Error.json');
 
-// const activarReserva = require('./data/Activar-Reserva.json');
-// const activarReservaErrorCodReserva = require('./data/Activar-Reserva-Error-codReserva.json');
-// const activarReservaErrorUsuAlumno = require('./data/Activar-Reserva-Error-usuAlumno.json');
-// const activarReservaError = require('./data/Activar-Reserva-Error.json');
-// const activarReservaNoDisponible = require('./data/Activar-Reserva-NoDisponible.json');
+const activarReserva = require('./data/Activar-Reserva.json');
+const activarReservaErrorCodReserva = require('./data/Activar-Reserva-Error-codReserva.json');
+const activarReservaErrorUsuAlumno = require('./data/Activar-Reserva-Error-usuAlumno.json');
+const activarReservaError = require('./data/Activar-Reserva-Error.json');
+const activarReservaNoDisponible = require('./data/Activar-Reserva-NoDisponible.json');
 
-// const reservaRealizadas = require('./data/ReservasRealizadas.json');
-// const reservaRealizadasVacio = require('./data/ReservasRealizadas-vacio.json');
+const reservaRealizadas = require('./data/ReservasRealizadas.json');
+const reservaRealizadasVacio = require('./data/ReservasRealizadas-vacio.json');
 
 module.exports = function () {
   return {
@@ -91,16 +91,16 @@ module.exports = function () {
     recursosDisponiblesError: recursosDisponiblesError,
     recursosDisponiblesVacio: recursosDisponiblesVacio,
     recursosDisponiblesToken: recursosDisponiblesToken,
-    // reservaRecurso002:reservaRecurso002,
-    // reservaRecursoComputadora:reservaRecursoComputadora,
-    // reservaRecursoCubiculo:reservaRecursoCubiculo,
-    // reservaRecursoError:reservaRecursoError,
-    // activarReserva:activarReserva,
-    // activarReservaErrorCodReserva:activarReservaErrorCodReserva,
-    // activarReservaErrorUsuAlumno:activarReservaErrorUsuAlumno,
-    // activarReservaError:activarReservaError,
-    // activarReservaNoDisponible:activarReservaNoDisponible,
-    // reservaRealizadas:reservaRealizadas,
-    // reservaRealizadasVacio:reservaRealizadasVacio
+    reservaRecurso002:reservaRecurso002,
+    reservaRecursoComputadora:reservaRecursoComputadora,
+    reservaRecursoCubiculo:reservaRecursoCubiculo,
+    reservaRecursoError:reservaRecursoError,
+    activarReserva:activarReserva,
+    activarReservaErrorCodReserva:activarReservaErrorCodReserva,
+    activarReservaErrorUsuAlumno:activarReservaErrorUsuAlumno,
+    activarReservaError:activarReservaError,
+    activarReservaNoDisponible:activarReservaNoDisponible,
+    reservaRealizadas:reservaRealizadas,
+    reservaRealizadasVacio:reservaRealizadasVacio
   };
 };
