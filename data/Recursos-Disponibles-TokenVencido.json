@@ -1,0 +1,8 @@
+{
+      "CodError": "00001",
+      "MsgError": "Token no es valido , no se puede procesar transacción",
+      "TipoRecurso": null,
+      "FecReserva": null,
+      "CanHoras": null,
+      "Recursos": null
+  }

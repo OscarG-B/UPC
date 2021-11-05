@@ -1,0 +1,8 @@
+{
+  "CodError": "00002",
+  "MsgError": "No hay recursos disponibles para reservar.",
+  "TipoRecurso": null,
+  "FecReserva": null,
+  "CanHoras": null,
+  "Recursos": null
+}

@@ -1,0 +1,22 @@
+{
+    "Codigo": "U201121382",
+    "CodigoAlumno": "201121382",
+    "Nombres": "JULIO CESAR",
+    "Apellidos": "VILCA AGUILAR",
+    "Genero": "MASCULINO",
+    "EsAlumno": "ALU",
+    "Estado": "A",
+    "TipoUser": "ALUMNO",
+    "Token": "80a19ffc17bb46768f41723d72be85b820210922075144",
+    "Datos": {
+        "CodLinea": "U",
+        "DscLinea": "Universidad Peruana de Ciencias Aplicadas",
+        "CodModal": "FC",
+        "DscModal": "PREGRADO EPE - PREGRADO WS",
+        "CodSede": "A",
+        "DscSede": "CAMPUS MONTERRICO",
+        "Ciclo": "201502"
+    },
+    "CodError": "00000",
+    "MsgError": ""
+}
