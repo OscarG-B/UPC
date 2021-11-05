@@ -1,10 +1,10 @@
 ﻿const locales = require("./data/locales.json");
 const localesVacio = require("./data/locales-vacio.json");
 const alumno = require("./data/Alumno.json");
-const alumnoVacio = require("./data/Alumno-SinData.json");
-const alumnoError = require("./data/Alumno-Incorrecto.json");
+// const alumnoVacio = require("./data/Alumno-SinData.json");
+// const alumnoError = require("./data/Alumno-Incorrecto.json");
 const avanceNotas = require("./data/AvanceNotas-Data.json");
-const avanceVacio = require("./data/AvanceNotas-inData.json");
+// const avanceVacio = require("./data/AvanceNotas-inData.json");
 const cliente = require("./data/Cliente-Data.json");
 const clienteVacio = require("./data/Cliente-SinData.json");
 const cursoSeccionDocente = require("./data/CurSecDoc-Data.json");
@@ -59,10 +59,10 @@ module.exports = function () {
     locales: locales,
     localesVacio: localesVacio,
     alumno: alumno,
-    alumnoVacio: alumnoVacio,
-    alumnoError: alumnoError,
+    // alumnoVacio: alumnoVacio,
+    // alumnoError: alumnoError,
     avanceNotas: avanceNotas,
-    avanceVacio: avanceVacio,
+    // avanceVacio: avanceVacio,
     cliente: cliente,
     clienteVacio: clienteVacio,
     cursoSeccionDocente: cursoSeccionDocente,
