@@ -34,11 +34,11 @@ const autenticarRecurso = require("./data/Autenticar-Recursos.json");
 const autenticarRecursoVacio = require("./data/Autenticar-RecursosSinData.json");
 const autenticarRecursoError = require("./data/Autenticar-RecursosError.json");
 
-// const recursosDisponiblesCampus = require('./data/Recursos-Disponibles-Campus.json');
-// const recursosDisponiblesComputadoras = require('./data/Recursos-Disponibles-Computadoras.json');
-// const recursosDisponiblesError = require('./data/Recursos-Disponibles-Error.json');
-// const recursosDisponiblesVacio = require('./data/Recursos-Disponibles-SinData.json');
-// const recursosDisponiblesToken = require('./data/Recursos-Disponibles-TokenVencido.json');
+const recursosDisponiblesCampus = require("./data/Recursos-Disponibles-Campus.json");
+const recursosDisponiblesComputadoras = require("./data/Recursos-Disponibles-Computadoras.json");
+const recursosDisponiblesError = require("./data/Recursos-Disponibles-Error.json");
+const recursosDisponiblesVacio = require("./data/Recursos-Disponibles-SinData.json");
+const recursosDisponiblesToken = require("./data/Recursos-Disponibles-TokenVencido.json");
 
 // const reservaRecurso002 = require('./data/Reservar-Recurso-0002.json');
 // const reservaRecursoComputadora = require('./data/Reservar-Recurso-computador.json');
@@ -86,11 +86,11 @@ module.exports = function () {
     autenticarRecurso: autenticarRecurso,
     autenticarRecursoVacio: autenticarRecursoVacio,
     autenticarRecursoError: autenticarRecursoError,
-    // recursosDisponiblesCampus:recursosDisponiblesCampus,
-    // recursosDisponiblesComputadoras:recursosDisponiblesComputadoras,
-    // recursosDisponiblesError:recursosDisponiblesError,
-    // recursosDisponiblesVacio:recursosDisponiblesVacio,
-    // recursosDisponiblesToken:recursosDisponiblesToken,
+    recursosDisponiblesCampus: recursosDisponiblesCampus,
+    recursosDisponiblesComputadoras: recursosDisponiblesComputadoras,
+    recursosDisponiblesError: recursosDisponiblesError,
+    recursosDisponiblesVacio: recursosDisponiblesVacio,
+    recursosDisponiblesToken: recursosDisponiblesToken,
     // reservaRecurso002:reservaRecurso002,
     // reservaRecursoComputadora:reservaRecursoComputadora,
     // reservaRecursoCubiculo:reservaRecursoCubiculo,
