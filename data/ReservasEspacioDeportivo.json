@@ -1,0 +1,50 @@
+{
+  "DTOHeader": {
+    "CodigoRetorno": "Correcto",
+    "DescRetorno": ""
+  },
+  "ListaDTOReservaEspaciosDeportivos": [
+    {
+      "DTOReservaEspaciosDeportivosCab": {
+        "CodAlumno": "201121382",
+        "ApePaternAlumno": "VILCA",
+        "ApeMaternAlumno": "AGUILAR",
+        "NombresAlumno": "JULIO CESAR",
+        "ApePatImagAlumno": "Vilca",
+        "ApeMatImagAlumno": "Aguilar",
+        "NombresImagAlumno": "Julio Cesar"
+      },
+      "DTOReservaEspaciosDeportivosDet": [
+        {
+          "CodSede": "F",
+          "NombreSede": "CAMPUS SAN MIGUEL",
+          "CodReserva": 1551555,
+          "CodLosa": 221,
+          "DesLosa": "CANCHA SINTETICA",
+          "CodTipoLosa": 101,
+          "DesTipoLosa": "USO DEL GIMNASIO",
+          "UsuarioCreador": "U201121382",
+          "ApePaternUsuarioCreador": "VILCA",
+          "ApeMaternUsuarioCreador": "AGUILAR",
+          "NombresUsuarioCreador": "JULIO CESAR",
+          "ApePatImagUsuarioCreador": "Vilca",
+          "ApeMatImagUsuarioCreador": "Aguilar",
+          "NomImagUsuarioCreador": "Julio Cesar",
+          "FechaCreacion": "2021-09-28T19:00:29",
+          "UsuarioModificador": null,
+          "FechaModificacion": null,
+          "DiaReserva": "MI",
+          "HorasReserva": 60,
+          "FechaReserva": "2021-09-29T00:00:00",
+          "HoraInicio": "13:00",
+          "HoraFin": "14:00",
+          "Asistencia": "SI",
+          "FechaCancelacion": null,
+          "Incidencia": null,
+          "Estado": "R",
+          "Observacion": null
+        }
+      ]
+    }
+  ]
+}

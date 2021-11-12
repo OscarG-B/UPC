@@ -54,6 +54,10 @@ const activarReservaNoDisponible = require('./data/Activar-Reserva-NoDisponible.
 const reservaRealizadas = require('./data/ReservasRealizadas.json');
 const reservaRealizadasVacio = require('./data/ReservasRealizadas-vacio.json');
 
+const reservasEspacioDeportivo = require('./data/ReservasEspacioDeportivo.json');
+
+
+
 module.exports = function () {
   return {
     locales: locales,
@@ -101,6 +105,7 @@ module.exports = function () {
     activarReservaError:activarReservaError,
     activarReservaNoDisponible:activarReservaNoDisponible,
     reservaRealizadas:reservaRealizadas,
-    reservaRealizadasVacio:reservaRealizadasVacio
+    reservaRealizadasVacio:reservaRealizadasVacio,
+    reservasEspacioDeportivo:reservasEspacioDeportivo
   };
 };
