@@ -1,0 +1,24 @@
+{
+  "CodError": "00000",
+  "MsgError": "",
+  "HorarioDia": [
+    {
+      "CodDia": "4",
+      "Fecha": "20140320",
+      "Disponibles": [
+        {
+          "Fecha": "20140320",
+          "HoraFin": "080000",
+          "HoraInicio": "060000",
+          "Sede": "L"
+        },
+        {
+          "Fecha": "20140320",
+          "HoraFin": "090000",
+          "HoraInicio": "070000",
+          "Sede": "L"
+        }
+      ]
+    }
+  ]
+}

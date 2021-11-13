@@ -1,0 +1,7 @@
+{
+  "CodAlumno": "U201121382",
+  "CodError": "11111",
+  "MsgError": "No se puede reservar: Maximo de horas de reserva por dia: 2 hora(s).",
+  "MsgConfirmacion": null,
+  "Estado": "N"
+}

@@ -1,0 +1,230 @@
+{
+  "CodError": "00000",
+  "MsgError": "",
+  "Sedes": [
+    {
+      "sede": "CAMPUS SAN ISIDRO",
+      "key": "B",
+      "espacios": [
+        {
+          "nombre": "ÁREA RECREATIVA SAN ISIDRO",
+          "codigo": "241",
+          "actividades": [
+            {
+              "nombre": "USO DEL GIMNASIO",
+              "codigo": "101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sede": "CAMPUS SAN MIGUEL",
+      "key": "F",
+      "espacios": [
+        {
+          "nombre": "CANCHA SINTETICA",
+          "codigo": "221",
+          "actividades": [
+            {
+              "nombre": "FÚTBOL",
+              "codigo": "104"
+            }
+          ]
+        },
+        {
+          "nombre": "GIMNASIO SAN MIGUEL",
+          "codigo": "201",
+          "actividades": [
+            {
+              "nombre": "USO DEL GIMNASIO",
+              "codigo": "101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sede": "COMPLEJO LOS ALAMOS",
+      "key": "L",
+      "espacios": [
+        {
+          "nombre": "GIMNASIO",
+          "codigo": "101",
+          "actividades": [
+            {
+              "nombre": "USO DEL GIMNASIO",
+              "codigo": "101"
+            }
+          ]
+        },
+        {
+          "nombre": "LOSA 1",
+          "codigo": "81",
+          "actividades": [
+            {
+              "nombre": "FUTSAL",
+              "codigo": "81"
+            }
+          ]
+        },
+        {
+          "nombre": "LOSA 2",
+          "codigo": "82",
+          "actividades": [
+            {
+              "nombre": "FUTSAL",
+              "codigo": "81"
+            },
+            {
+              "nombre": "VÓLEY",
+              "codigo": "82"
+            },
+            {
+              "nombre": "BÁSQUET",
+              "codigo": "83"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sede": "CAMPUS VILLA",
+      "key": "R",
+      "espacios": [
+        {
+          "nombre": "CANCHA DE FUTBOL",
+          "codigo": "121",
+          "actividades": [
+            {
+              "nombre": "FÚTBOL",
+              "codigo": "104"
+            }
+          ]
+        },
+        {
+          "nombre": "CARRIL 1",
+          "codigo": "183",
+          "actividades": [
+            {
+              "nombre": "NATACIÓN",
+              "codigo": "102"
+            }
+          ]
+        },
+        {
+          "nombre": "CARRIL 2",
+          "codigo": "184",
+          "actividades": [
+            {
+              "nombre": "NATACIÓN",
+              "codigo": "102"
+            }
+          ]
+        },
+        {
+          "nombre": "CARRIL 3",
+          "codigo": "185",
+          "actividades": [
+            {
+              "nombre": "NATACIÓN",
+              "codigo": "102"
+            }
+          ]
+        },
+        {
+          "nombre": "CARRIL 4",
+          "codigo": "186",
+          "actividades": [
+            {
+              "nombre": "NATACIÓN",
+              "codigo": "102"
+            }
+          ]
+        },
+        {
+          "nombre": "CARRIL 5",
+          "codigo": "187",
+          "actividades": [
+            {
+              "nombre": "NATACIÓN",
+              "codigo": "102"
+            }
+          ]
+        },
+        {
+          "nombre": "CARRIL 6",
+          "codigo": "188",
+          "actividades": [
+            {
+              "nombre": "NATACIÓN",
+              "codigo": "102"
+            }
+          ]
+        },
+        {
+          "nombre": "CARRIL 7",
+          "codigo": "189",
+          "actividades": [
+            {
+              "nombre": "NATACIÓN",
+              "codigo": "102"
+            }
+          ]
+        },
+        {
+          "nombre": "CARRIL 8",
+          "codigo": "190",
+          "actividades": [
+            {
+              "nombre": "NATACIÓN",
+              "codigo": "102"
+            }
+          ]
+        },
+        {
+          "nombre": "GIMNASIO VILLA",
+          "codigo": "181",
+          "actividades": [
+            {
+              "nombre": "USO DEL GIMNASIO",
+              "codigo": "101"
+            }
+          ]
+        },
+        {
+          "nombre": "LOSA 1 VILLA",
+          "codigo": "161",
+          "actividades": [
+            {
+              "nombre": "VÓLEY",
+              "codigo": "82"
+            },
+            {
+              "nombre": "BÁSQUET",
+              "codigo": "83"
+            },
+            {
+              "nombre": null,
+              "codigo": "103"
+            }
+          ]
+        },
+        {
+          "nombre": "LOSA 2 VILLA",
+          "codigo": "162",
+          "actividades": [
+            {
+              "nombre": "FUTSAL",
+              "codigo": "81"
+            },
+            {
+              "nombre": "VÓLEY",
+              "codigo": "82"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

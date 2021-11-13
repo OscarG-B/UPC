@@ -1,0 +1,71 @@
+{
+  "oDTOHeader": {
+    "CodigoRetorno": "Correcto",
+    "DescRetorno": ""
+  },
+  "oDTOListaCarreraProfesional": [
+    {
+      "oDTOCarreraProfesionalCab": {
+        "CodLineaNegocio": "U",
+        "LineaNegocioNombre": "Universidad Peruana de Ciencias Aplicadas",
+        "CodModalEst": "AC",
+        "ModalidadEstudNombre": "PREGRADO-UPC"
+      },
+      "oDTOListaCarreraProfesionalDet": [
+        {
+          "CodProducto": "03310453",
+          "Descripcion": "INGENIERIA DE GESTION EMPRESARIAL",
+          "DescripcionCorta": "INGENIERIA DE GESTION EMPRESAR",
+          "DescEspecial": "Ingeniería de Gestión Empresarial",
+          "CodFacultad": "01",
+          "FacultadDescripcion": "INGENIERIA",
+          "CodTipoProduc": "A",
+          "TipoProducDescripcion": "ACADEMICO                                         ",
+          "EsCarrera": "SI",
+          "CodLineaArea": null,
+          "CodArea": null,
+          "CodTarifa": null,
+          "EstadoReqEspecial": "NO",
+          "CodTipoActividad": "O",
+          "EstadoMatricula": "NO",
+          "CodLinea": "03",
+          "CodFamilia": "31",
+          "FechaCreacion": "2010-08-19T17:36:31",
+          "UsuarioCreacion": "JAMPUERO",
+          "FechaModificacion": "2020-01-23T12:55:21",
+          "UsuarioModificacion": "JAMPUERO",
+          "PorcentajeComision": null,
+          "ReqSecigra": "NO",
+          "CodDirector": 6401130,
+          "CodEncargado": 3784480,
+          "NumAnexo": 1921,
+          "CreaUsuario": "NO",
+          "CodStatus": null,
+          "CodUnidad": null,
+          "CodFacultadProd": null,
+          "CodEspecialidad": null,
+          "TransfEquiv": "NO",
+          "IdGrupo": null,
+          "CodigoAleph": "U0095",
+          "Caracter": null,
+          "CantCiclos": 10,
+          "IndAgregacion": null,
+          "Especial": "NO",
+          "FueraInstit": "NO",
+          "Anexo": "1921",
+          "IndLibre": "NO",
+          "Anual": "NO",
+          "Internado": "NO",
+          "IndPronabec": "SI",
+          "IndAdmision": "SI",
+          "TarifaDescripcion": null,
+          "FamiliaDescripcion": "CARRERAS PROFESIONALES",
+          "PersonaNombreDirector": "TORRES SIFUENTES CARLOS LUIS",
+          "PersonaNombreEncargado": "GONZALES DE LA LAMA ANA CECILIA LUCIA MARTIN",
+          "IndCurriculo": "SI",
+          "VALIDA_PPP": null
+        }
+      ]
+    }
+  ]
+}

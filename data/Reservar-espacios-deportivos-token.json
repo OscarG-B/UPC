@@ -1,0 +1,7 @@
+{
+  "CodAlumno": null,
+  "CodError": "00003",
+  "MsgError": "La sesión ha expirado o no se reconoce el usuario que solicita la operación.",
+  "MsgConfirmacion": null,
+  "Estado": null
+}
