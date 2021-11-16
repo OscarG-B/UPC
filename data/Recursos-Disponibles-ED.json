@@ -17,6 +17,18 @@
           "HoraFin": "090000",
           "HoraInicio": "070000",
           "Sede": "L"
+        },
+        {
+          "Fecha": "20140320",
+          "HoraFin": "100000",
+          "HoraInicio": "110000",
+          "Sede": "L"
+        },
+        {
+          "Fecha": "20140320",
+          "HoraFin": "080000",
+          "HoraInicio": "090000",
+          "Sede": "L"
         }
       ]
     }
