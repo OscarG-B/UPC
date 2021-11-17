@@ -61,6 +61,8 @@ const recursosDisponiblesED = require("./data/Recursos-Disponibles-ED.json");
 const reservarEspaciosDeportivosCOD1 = require("./data/Reservar-espacios-deportivos-COD1.json");
 const reservarEspaciosDeportivosToken = require("./data/Reservar-espacios-deportivos-token.json");
 const reservarEspaciosDeportivos = require("./data/Reservar-espacios-deportivos.json");
+const reservarEspaciosDeportivosVacio = require("./data/ReservasEspacioDeportivo-vacio.json");
+
 
 const carreraProfesional = require("./data/CarreraProfesional.json");
 
@@ -124,6 +126,7 @@ module.exports = function () {
     reservarEspaciosDeportivosCOD1: reservarEspaciosDeportivosCOD1,
     reservarEspaciosDeportivosToken: reservarEspaciosDeportivosToken,
     reservarEspaciosDeportivos: reservarEspaciosDeportivos,
+    reservarEspaciosDeportivosVacio : reservarEspaciosDeportivosVacio,
     carreraProfesional: carreraProfesional,
     loadSurvey: loadSurvey,
     surveyAvaliable: surveyAvaliable,
