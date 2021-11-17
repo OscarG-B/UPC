@@ -28,7 +28,7 @@
           "HoraInicio": "11:30 a.m.",
           "HoraTermino": "12:30 p.m.",
           "CodEstadoReserva": "E",
-          "DescEstadoReserva": "ELIMANDO",
+          "DescEstadoReserva": "ELIMINADO",
           "CodLocal": "A",
           "DescLocal": "CAMPUS MONTERRICO",
           "CodTipoReserva": "RN",
