@@ -1,7 +1,7 @@
 {
-  "CodRecurso": null,
-  "CodUsuario": null,
-  "CodError": "00000",
-  "MsgError": null,
-  "CodReserva": null
+  "CodRecurso": "4503",
+  "CodUsuario": "U201121382",
+  "CodError": "00002",
+  "MsgError": "EL USUARIO : A201623595 no se encuentra registrado en SOCRATES",
+  "CodReserva": "7565582"
 }
