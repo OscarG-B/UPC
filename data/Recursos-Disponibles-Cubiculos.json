@@ -1,0 +1,42 @@
+{
+  "CodError": "00000",
+  "MsgError": "",
+  "TipoRecurso": "CL",
+  "FecReserva": "06102021 2100",
+  "CanHoras": "1",
+  "Recursos": [
+    {
+      "CodRecurso": 6869,
+      "NomRecurso": "CUB001 - PAB. L - PISO 4",
+      "Local": "CAMPUS MONTERRICO",
+      "FecReserva": "06102021",
+      "HoraIni": "2100",
+      "HoraFin": "2200",
+      "Estado": true,
+      "CodError": null,
+      "Mensaje": null
+    },
+    {
+      "CodRecurso": 6870,
+      "NomRecurso": "CUB002 - PAB. L - PISO 4",
+      "Local": "CAMPUS MONTERRICO",
+      "FecReserva": "08102021",
+      "HoraIni": "2100",
+      "HoraFin": "2200",
+      "Estado": true,
+      "CodError": null,
+      "Mensaje": null
+    },
+    {
+      "CodRecurso": 6871,
+      "NomRecurso": "CUB003 - PAB. L - PISO 4",
+      "Local": "CAMPUS MONTERRICO",
+      "FecReserva": "07102021",
+      "HoraIni": "2100",
+      "HoraFin": "2200",
+      "Estado": true,
+      "CodError": null,
+      "Mensaje": null
+    }
+  ]
+}

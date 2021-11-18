@@ -72,6 +72,10 @@ const surveyAvaliable = require("./data/SurveyAvaliable.json");
 
 const SurveyAvaliableVacio = require("./data/SurveyAvaliable-vacio.json");
 
+const RecursosDisponiblesCubiculos = require("./data/Recursos-Disponibles-Cubiculos.json");
+
+
+
 module.exports = function () {
   return {
     locales: locales,
@@ -131,5 +135,6 @@ module.exports = function () {
     loadSurvey: loadSurvey,
     surveyAvaliable: surveyAvaliable,
     SurveyAvaliableVacio: SurveyAvaliableVacio,
+    RecursosDisponiblesCubiculos : RecursosDisponiblesCubiculos,
   };
 };
